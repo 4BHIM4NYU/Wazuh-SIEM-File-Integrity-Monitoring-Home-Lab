@@ -61,6 +61,8 @@ ifconfig
 - Open browser: `https://<ubuntu-vm-ip>`  
 - Accept browser’s self-signed certificate warning.  
 - Log in with credentials shown after installation.
+ ![WAZUH DASHBOARD](screenshots/wazuh_dashboard1.jpg) figure1:Wazuh dashboard 
+
 
 ---
 
@@ -87,6 +89,7 @@ sudo /var/ossec/bin/manage_agents
 - Paste key into key field.  
 - Add manager’s IP (Ubuntu VM IP).  
 - Save and restart agent service.
+  ![AGENT MANAGER](screenshots/wazuh_agent_manager.jpg) figure2:Agent manager setup to add windows agent.
 
 ---
 
