@@ -121,4 +121,4 @@ figure 5: Showing alerts for changes in file.
 
 ---
 
-✅  Wazuh Home Lab is now ready!
+
