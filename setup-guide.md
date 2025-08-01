@@ -1,4 +1,4 @@
-# ⚙️ Wazuh Home Lab Setup Guide
+#  Wazuh Home Lab Setup Guide
 
 This guide provides detailed instructions for recreating the Wazuh SIEM & File Integrity Monitoring lab.
 
@@ -22,15 +22,6 @@ This lab demonstrates how to build a Wazuh setup for **learning and experimentat
 - **Wazuh Agent:** Windows VM
 
 **Network:** Bridged adapter so the Ubuntu server and Windows VM are on the same LAN.
-
----
-
-## 3️⃣ Prerequisites
-- VirtualBox installed  
-- Ubuntu Server 20.04+ installed in VirtualBox (bridged networking)  
-- Internet access on Ubuntu VM  
-- Admin access on Windows host  
-- Basic Linux knowledge (optional but useful)  
 
 ---
 
@@ -130,4 +121,4 @@ figure 5: Showing alerts for changes in file.
 
 ---
 
-✅ Your Wazuh Home Lab is now ready!
+✅  Wazuh Home Lab is now ready!
