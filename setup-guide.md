@@ -101,7 +101,8 @@ sudo /var/ossec/bin/manage_agents
 ```
 3. Restart the Wazuh agent service.
 
-![FILE MONITORING CON](screenshots/configuration_file_integrity.jpg) figure2:Added the file/folder that wants to be monitored.
+![FILE MONITORING CON](screenshots/configuration_file_integrity.jpg) 
+figure2:Added the file/folder that wants to be monitored in the coonfiguration file.
 
 ---
 
