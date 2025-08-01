@@ -111,12 +111,8 @@ figure3:Added the file/folder that wants to be monitored in the coonfiguration f
 - Go to **Agents** → Check agent status = Active.  
 - In monitored folder, create/modify/delete files.  
 - See alerts in dashboard.
-
-  ![AGENT ACTIVE](screenshots/Agent_added.jpg)
-  *figure4:Dashboard showing agent active.*
-
-  ![ALERTS](screenshots/alerts.jpg)
-  *figure5:Showing alerts for changes in file.*
+- 
+| ![AGENT ACTIVE](screenshots/Agent_added.jpg)<br>*Figure 4: Dashboard showing agent active.* | ![ALERTS](screenshots/alerts.jpg)<br>*Figure 5: Showing alerts for changes in file.* |
 
 ---
 
