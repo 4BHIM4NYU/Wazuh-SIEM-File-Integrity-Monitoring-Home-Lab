@@ -111,6 +111,12 @@ sudo /var/ossec/bin/manage_agents
 - In monitored folder, create/modify/delete files.  
 - See alerts in dashboard.
 
+  ![AGENT ACTIVE](screenshots/Agent_added.jpg)
+   figure2:Dashboard showing agent active.
+
+  ![FILE MONITORING CON](screenshots/alerts.jpg)
+  figure2:Showing alerts for changes in file.
+
 ---
 
 ✅ Your Wazuh Home Lab is now ready!
