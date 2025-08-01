@@ -114,7 +114,7 @@ sudo /var/ossec/bin/manage_agents
   ![AGENT ACTIVE](screenshots/Agent_added.jpg)
    figure2:Dashboard showing agent active.
 
-  ![FILE MONITORING CON](screenshots/alerts.jpg)
+  ![ALERTS](screenshots/alerts.jpg)
   figure2:Showing alerts for changes in file.
 
 ---
