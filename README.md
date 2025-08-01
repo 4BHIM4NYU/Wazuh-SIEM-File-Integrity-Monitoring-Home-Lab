@@ -28,10 +28,7 @@ It serves as a **beginner-friendly cybersecurity project** to understand SIEM co
 ---
 
 ## 📷 Screenshots
-(Save dashboard and alert screenshots in a folder called `screenshots/` and reference them here.)
 
-| Dashboard | FIM Alert |
-|-----------|-----------|
 | ![Dashboard](screenshots/wazuh_dashboard1.jpg) | ![Alert](screenshots/fim-alert.png) |
 
 ---
