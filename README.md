@@ -27,10 +27,6 @@ It serves as a **beginner-friendly cybersecurity project** to understand SIEM co
 
 ---
 
-## 📷 Screenshots
-
- ![WAZUH DASHBOARD](screenshots/wazuh_dashboard1.jpg) figure1:Wazuh dashboard ![Alert](screenshots/fim-alert.png) 
-
 ---
 
 ## 🛠️ Tech Stack
