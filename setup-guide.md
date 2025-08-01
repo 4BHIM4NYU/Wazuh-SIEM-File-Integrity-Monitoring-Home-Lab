@@ -61,7 +61,10 @@ ifconfig
 - Open browser: `https://<ubuntu-vm-ip>`  
 - Accept browser’s self-signed certificate warning.  
 - Log in with credentials shown after installation.
- ![WAZUH DASHBOARD](screenshots/wazuh_dashboard1.jpg) figure1:Wazuh dashboard 
+  
+ ![WAZUH DASHBOARD](screenshots/wazuh_dashboard1.jpg) 
+ 
+ figure1:Wazuh dashboard 
 
 
 ---
@@ -89,7 +92,10 @@ sudo /var/ossec/bin/manage_agents
 - Paste key into key field.  
 - Add manager’s IP (Ubuntu VM IP).  
 - Save and restart agent service.
-  ![AGENT MANAGER](screenshots/wazuh_agent_manager.jpg) figure2:Agent manager setup to add windows agent.
+  
+  ![AGENT MANAGER](screenshots/wazuh_agent_manager.jpg)
+
+  figure2: Agent manager setup to add windows agent.
 
 ---
 
@@ -102,7 +108,8 @@ sudo /var/ossec/bin/manage_agents
 3. Restart the Wazuh agent service.
 
 ![FILE MONITORING CON](screenshots/configuration_file_integrity.jpg) 
-figure3:Added the file/folder that wants to be monitored in the coonfiguration file.
+
+figure3: Added the file/folder that wants to be monitored in the coonfiguration file.
 
 ---
 
@@ -111,8 +118,15 @@ figure3:Added the file/folder that wants to be monitored in the coonfiguration f
 - Go to **Agents** → Check agent status = Active.  
 - In monitored folder, create/modify/delete files.  
 - See alerts in dashboard.
-- 
-| ![AGENT ACTIVE](screenshots/Agent_added.jpg)<br>*Figure 4: Dashboard showing agent active.* | ![ALERTS](screenshots/alerts.jpg)<br>*Figure 5: Showing alerts for changes in file.* |
+
+ 
+![AGENT ACTIVE](screenshots/Agent_added.jpg)
+
+figure 4: Dashboard showing agent active.
+
+![ALERTS](screenshots/alerts.jpg)
+
+figure 5: Showing alerts for changes in file.
 
 ---
 
